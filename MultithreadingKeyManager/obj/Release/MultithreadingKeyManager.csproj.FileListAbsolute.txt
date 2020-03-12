@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\bin\Release\MultithreadingKeyManager.exe.config
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\bin\Release\MultithreadingKeyManager.exe
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\bin\Release\MultithreadingKeyManager.pdb
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\obj\Release\MultithreadingKeyManager.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\obj\Release\MultithreadingKeyManager.exe
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\obj\Release\MultithreadingKeyManager.pdb
+C:\Users\1\source\repos\MultithreadingKeyManager\MultithreadingKeyManager\obj\Release\MultithreadingKeyManager.csprojAssemblyReference.cache
